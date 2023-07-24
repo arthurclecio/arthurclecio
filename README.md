@@ -6,9 +6,9 @@ Futuro Desenvolvedor de Sistema
 
 Eu iniciei um curso de desenvolvimento de sistemas, e estou aprendendo a utilizar html, javascript e css. Eu estou gostando muito de trabalhar com css
 
-* 🌍  I'm based in S
+* 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [arthurclecio10@gmail.com](mailto:arthurclecio10@gmail.com )
-* 🧠  I'm learning h
+* 🧠  I'm learning html, javascript e css
 
 ### Skills
 
