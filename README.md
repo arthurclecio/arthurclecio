@@ -1,5 +1,14 @@
-Oi 👋 Meu nome é Arthur Clecio Vieira da Silva
-==============================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur Clecio
+=====================================================================================================================================
+
+Futuro Desenvolvedor de Sistema
+-------------------------------
+
+Eu iniciei um curso de desenvolvimento de sistemas, e estou aprendendo a utilizar html, javascript e css. Eu estou gostando muito de trabalhar com css
+
+* 🌍  I'm based in S
+* ✉️  You can contact me at [arthurclecio10@gmail.com](mailto:arthurclecio10@gmail.com )
+* 🧠  I'm learning h
 
 ### Skills
 
