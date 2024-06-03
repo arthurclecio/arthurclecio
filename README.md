@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Futuro Desenvolvedor de Sistema
 -------------------------------
 
-Eu iniciei um curso de desenvolvimento de sistemas, e estou aprendendo a utilizar html, javascript e css. Eu estou gostando muito de trabalhar com css
+Eu iniciei um curso de desenvolvimento de sistemas, e estou aprendendo a utilizar html, javascript e css. Eu estou gostando muito de trabalhar na parte de Front End
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [arthurclecio10@gmail.com](mailto:arthurclecio10@gmail.com )
